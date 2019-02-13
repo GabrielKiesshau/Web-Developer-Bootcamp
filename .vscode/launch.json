@@ -88,6 +88,13 @@
             "request": "launch",
             "url": "file:///${workspaceFolder}/DOM/Score Counter\\index.html",
             "webRoot": "${workspaceFolder}/DOM/Score Counter"
+        },
+        {
+            "name": "jQuery Selector Exercise",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/jQuery/Selector Exercise\\index.html",
+            "webRoot": "${workspaceFolder}/jQuery/Selector Exercise"
         }
     ]
 }
